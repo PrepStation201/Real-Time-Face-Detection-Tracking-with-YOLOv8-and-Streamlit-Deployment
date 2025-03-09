@@ -13,7 +13,7 @@ This project implements real-time face detection using OpenCV and a Haar Cascade
 
 ### Clone the repository  
 ```sh
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/PrepStation201/face-detection-using-haar-cascade.git
 cd your-repo
 ```  
 
